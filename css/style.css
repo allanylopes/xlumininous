@@ -99,7 +99,7 @@ h6 {
 .header {
   background-color: var(--clr-gray);
   display: flex;
-
+/* position troca a imagem de lugar */
   position: sticky;
   padding: 12px 20px;
   top: 0;
